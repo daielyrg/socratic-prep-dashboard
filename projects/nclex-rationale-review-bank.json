@@ -1,0 +1,2650 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "a1b2c3d4-e5f6-7890-abcd-000000000001",
+        "text": {
+          "ops": [
+            {
+              "insert": "📚 NCLEX Rationale Review Bank"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": null,
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "11111111-aaaa-1111-aaaa-111111111101",
+            "text": {
+              "ops": [
+                {
+                  "insert": "💊 Pharmacology",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "22222222-aaaa-1111-aaaa-111111111101",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "ARBs (Losartan) — Pregnancy Contraindication",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@res": {
+                    "type": "Select",
+                    "optionId": "incorrect"
+                  },
+                  "@quest": "Nurse preparing to give first dose of losartan to 38-year-old client. Which finding is MOST concerning?",
+                  "@whyWr": "Focused on drug interaction rather than the safety priority — pregnancy is an absolute contraindication",
+                  "@revSt": {
+                    "type": "Select",
+                    "optionId": "new"
+                  },
+                  "@keyRat": "ARBs (losartan, valsartan) block angiotensin II on vascular smooth muscle and adrenal glands. Contraindicated in pregnancy/lactation. All RAAS medications are teratogenic with black box pregnancy warning. Late menstrual period = possible pregnancy = HOLD the med and report.",
+                  "@subj": {
+                    "type": "Select",
+                    "optionId": "pharm"
+                  },
+                  "@errTy": {
+                    "type": "Select",
+                    "optionId": "priority"
+                  },
+                  "@corAn": "Client says her menstrual period is late (pregnancy risk — ARBs are teratogenic, black box warning)",
+                  "@myAns": "Client also takes furosemide daily"
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "22222222-aaaa-1111-aaaa-111111111102",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Methimazole — Agranulocytosis (Sore Throat)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@res": {
+                    "type": "Select",
+                    "optionId": "incorrect"
+                  },
+                  "@quest": "Client receiving high dose methimazole. Which life-threatening side effect is PRIORITY to report?",
+                  "@whyWr": "Chose a less urgent side effect over a life-threatening one. Agranulocytosis > joint pain in priority",
+                  "@revSt": {
+                    "type": "Select",
+                    "optionId": "new"
+                  },
+                  "@keyRat": "Methimazole treats hyperthyroidism by inhibiting thyroid hormone synthesis. Most dangerous side effect = agranulocytosis (suppresses bone marrow → leukocytes drop). Sore throat/fever = first signs of infection from agranulocytosis. Report immediately, discontinue drug.",
+                  "@subj": {
+                    "type": "Select",
+                    "optionId": "pharm"
+                  },
+                  "@errTy": {
+                    "type": "Select",
+                    "optionId": "knowledge"
+                  },
+                  "@corAn": "Sore throat (sign of agranulocytosis — severe neutropenia)",
+                  "@myAns": "4/10 joint pain"
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "22222222-aaaa-1111-aaaa-111111111103",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Phenazopyridine — UTI Pain Relief Teaching",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@res": {
+                    "type": "Select",
+                    "optionId": "incorrect"
+                  },
+                  "@quest": "Client with UTI on phenazopyridine. Which statement shows correct understanding?",
+                  "@whyWr": "Confused analgesic mechanism with antibacterial mechanism",
+                  "@revSt": {
+                    "type": "Select",
+                    "optionId": "new"
+                  },
+                  "@keyRat": "Phenazopyridine = urinary analgesic, NOT antibiotic. Relieves dysuria by numbing urinary tract lining. Orange/red urine is expected and harmless. Stop taking when dysuria subsides. Antibiotics (nitrofurantoin, TMP-SMX) treat the actual infection.",
+                  "@subj": {
+                    "type": "Select",
+                    "optionId": "pharm"
+                  },
+                  "@errTy": {
+                    "type": "Select",
+                    "optionId": "knowledge"
+                  },
+                  "@corAn": "\"Taking this medication will make urinating less painful\" (relieves dysuria)",
+                  "@myAns": "\"Phenazopyridine works by killing bacteria\" (it does NOT treat infection)"
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "22222222-aaaa-1111-aaaa-111111111104",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Nifedipine (CCB) — Reflex Tachycardia",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@res": {
+                    "type": "Select",
+                    "optionId": "incorrect"
+                  },
+                  "@quest": "Client on nifedipine for hypertension and angina. Which finding is MOST concerning?",
+                  "@whyWr": "Chose expected side effect over dangerous compensatory response",
+                  "@revSt": {
+                    "type": "Select",
+                    "optionId": "new"
+                  },
+                  "@keyRat": "CCBs (nifedipine, amlodipine) inhibit calcium influx → vasodilation → lower BP. Nifedipine lacks negative inotropic effects → baroreceptors trigger compensatory tachycardia. Reflex tachycardia increases cardiac workload and can precipitate angina. Facial flushing, headache, and trace edema are expected side effects.",
+                  "@subj": {
+                    "type": "Select",
+                    "optionId": "pharm"
+                  },
+                  "@errTy": {
+                    "type": "Select",
+                    "optionId": "priority"
+                  },
+                  "@corAn": "Pulse rate of 122 (reflex tachycardia — can worsen angina)",
+                  "@myAns": "Facial flushing (expected side effect of vasodilation)"
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "22222222-aaaa-1111-aaaa-111111111105",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Levodopa-Carbidopa — Parkinson's Caregiver Teaching",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@res": {
+                    "type": "Select",
+                    "optionId": "incorrect"
+                  },
+                  "@quest": "Which caregiver statement about levodopa-carbidopa shows correct understanding?",
+                  "@whyWr": "Confused disease symptom with medication side effect requiring action",
+                  "@revSt": {
+                    "type": "Select",
+                    "optionId": "new"
+                  },
+                  "@keyRat": "Levodopa-carbidopa treats Parkinson's. Clients have orthostatic hypotension, dyskinesia, and fall risk. Slip-on shoes prevent falls from motor difficulties. Flat affect is a Parkinson's symptom (not a med side effect to report). High-protein meals interfere with levodopa absorption — avoid.",
+                  "@subj": {
+                    "type": "Select",
+                    "optionId": "pharm"
+                  },
+                  "@errTy": {
+                    "type": "Select",
+                    "optionId": "knowledge"
+                  },
+                  "@corAn": "\"I will provide the client with slip-on shoes to reduce fall risk\"",
+                  "@myAns": "\"I should call the HCP if the client has a flat affect\""
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "22222222-aaaa-1111-aaaa-111111111106",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Desmopressin — Water Intoxication Monitoring",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@res": {
+                    "type": "Select",
+                    "optionId": "incorrect"
+                  },
+                  "@quest": "Administering intranasal desmopressin for diabetes insipidus. MOST important to monitor for?",
+                  "@whyWr": "Low sodium is a lab value, but AMS is the clinical sign to monitor — question asked what to monitor FOR in the client",
+                  "@revSt": {
+                    "type": "Select",
+                    "optionId": "new"
+                  },
+                  "@keyRat": "Desmopressin = synthetic ADH for diabetes insipidus. DI = lack of ADH → polyuria/dehydration. Desmopressin increases water reabsorption in kidneys. Risk: water intoxication → hyponatremia → headache, nausea, muscle cramps → altered mental status, seizures, coma. Monitor AMS as earliest clinical sign.",
+                  "@subj": {
+                    "type": "Select",
+                    "optionId": "pharm"
+                  },
+                  "@errTy": {
+                    "type": "Select",
+                    "optionId": "misread"
+                  },
+                  "@corAn": "Altered mental status (sign of water intoxication / hyponatremia)",
+                  "@myAns": "Low serum sodium level"
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "22222222-aaaa-1111-aaaa-111111111107",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Hydroxyzine vs Topical Corticosteroids — Allergic Reaction in Elderly",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@res": {
+                    "type": "Select",
+                    "optionId": "incorrect"
+                  },
+                  "@quest": "84-year-old with allergic reaction to IV dressing tape (redness, edema, vesicles, pruritus). Which prescription should the nurse QUESTION?",
+                  "@whyWr": "Did not apply Beers Criteria / geriatric pharmacology safety principles",
+                  "@revSt": {
+                    "type": "Select",
+                    "optionId": "new"
+                  },
+                  "@keyRat": "Hydroxyzine is a first-gen antihistamine with anticholinergic effects — sedation, confusion, urinary retention, falls. Beers Criteria lists it as potentially inappropriate for older adults. Topical corticosteroids are appropriate for localized allergic dermatitis.",
+                  "@subj": {
+                    "type": "Select",
+                    "optionId": "pharm"
+                  },
+                  "@errTy": {
+                    "type": "Select",
+                    "optionId": "knowledge"
+                  },
+                  "@corAn": "Oral hydroxyzine (anticholinergic — unsafe in elderly, causes sedation/confusion/falls)",
+                  "@myAns": "Topical corticosteroids"
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "11111111-bbbb-2222-aaaa-111111111101",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🤰 OB / Maternal",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "33333333-bbbb-1111-aaaa-111111111101",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Amniotomy — Bloody Amniotic Fluid",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@res": {
+                    "type": "Select",
+                    "optionId": "incorrect"
+                  },
+                  "@quest": "Client undergoing amniotomy. Which finding requires follow-up?",
+                  "@whyWr": "Did not recognize bloody amniotic fluid as an emergency sign. Early decels are expected.",
+                  "@revSt": {
+                    "type": "Select",
+                    "optionId": "new"
+                  },
+                  "@keyRat": "Normal amniotic fluid = colorless, no strong odor. Bloody fluid = possible placental abruption (premature placental separation → maternal/fetal hemorrhage). Early decels = normal head compression. White specks = vernix (normal). Station change 0→+1 = expected descent.",
+                  "@subj": {
+                    "type": "Select",
+                    "optionId": "ob"
+                  },
+                  "@errTy": {
+                    "type": "Select",
+                    "optionId": "priority"
+                  },
+                  "@corAn": "Blood-colored amniotic fluid (suggests placental abruption)",
+                  "@myAns": "Early fetal heart rate decelerations"
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "33333333-bbbb-1111-aaaa-111111111102",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Cord Prolapse — Polyhydramnios + FHR Drop",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@res": {
+                    "type": "Select",
+                    "optionId": "incorrect"
+                  },
+                  "@quest": "39 weeks, polyhydramnios, membranes ruptured, FHR dropped to 95 with minimal variability. First intervention?",
+                  "@whyWr": "Chose a secondary intervention over the immediate life-saving action",
+                  "@revSt": {
+                    "type": "Select",
+                    "optionId": "new"
+                  },
+                  "@keyRat": "Negative fetal station + polyhydramnios + membrane rupture = high risk for umbilical cord prolapse. FHR drop to 95 = cord compression. PRIORITY: insert fingers to lift presenting part off cord. THEN: Trendelenburg/knee-chest position, wedge under hip. Trendelenburg helps but lifting the head off the cord is the FIRST action.",
+                  "@subj": {
+                    "type": "Select",
+                    "optionId": "ob"
+                  },
+                  "@errTy": {
+                    "type": "Select",
+                    "optionId": "priority"
+                  },
+                  "@corAn": "Insert fingers into vagina and assess for presenting part (relieve cord compression)",
+                  "@myAns": "Place client in Trendelenburg"
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "33333333-bbbb-1111-aaaa-111111111103",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Preterm Labor at 31 Weeks — Differentiate from Placenta Previa",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@res": {
+                    "type": "Select",
+                    "optionId": "incorrect"
+                  },
+                  "@quest": "17-year-old at 31 weeks with abdominal cramps, diarrhea, spotting, and urinary incontinence. Most likely experiencing?",
+                  "@whyWr": "Confused preterm labor presentation with placenta previa. Key difference: cramps + multiple symptoms vs painless bleeding",
+                  "@revSt": {
+                    "type": "Select",
+                    "optionId": "new"
+                  },
+                  "@keyRat": "Preterm labor = regular uterine contractions <37 weeks with cervical changes. Signs: constant mild lower abdominal cramps, diarrhea (prostaglandins), bright pink vaginal spotting (cervical effacement), urinary incontinence (may be ruptured membranes). Placenta previa = painless bright red bleeding, no cramping.",
+                  "@subj": {
+                    "type": "Select",
+                    "optionId": "ob"
+                  },
+                  "@errTy": {
+                    "type": "Select",
+                    "optionId": "knowledge"
+                  },
+                  "@corAn": "Preterm labor",
+                  "@myAns": "Placenta previa"
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "33333333-bbbb-1111-aaaa-111111111104",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Postpartum Priority — Purulent Lochia vs Bleeding",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@res": {
+                    "type": "Select",
+                    "optionId": "incorrect"
+                  },
+                  "@quest": "4 postpartum clients. Which to see FIRST?",
+                  "@whyWr": "Did not recognize purulent lochia as abnormal. Moderate bleeding in immediate postpartum with oxytocin running is expected.",
+                  "@revSt": {
+                    "type": "Select",
+                    "optionId": "new"
+                  },
+                  "@keyRat": "Purulent lochia = infection (endometritis) = urgent. Moderate bleeding at 1hr postpartum on oxytocin = expected. Increased bleeding while breastfeeding = oxytocin release, expected. First-time ambulation gush = pooled lochia, expected.",
+                  "@subj": {
+                    "type": "Select",
+                    "optionId": "ob"
+                  },
+                  "@errTy": {
+                    "type": "Select",
+                    "optionId": "priority"
+                  },
+                  "@corAn": "1 day ago with scant reddish-brown purulent lochia (sign of endometritis/infection)",
+                  "@myAns": "1 hour ago with moderate vaginal bleeding on oxytocin IV"
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "33333333-bbbb-1111-aaaa-111111111105",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Postpartum Temp 100.2°F — Dehydration Assessment",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@res": {
+                    "type": "Select",
+                    "optionId": "incorrect"
+                  },
+                  "@quest": "Postpartum client 6 hours after birth with temp 100.2°F. First intervention?",
+                  "@whyWr": "Jumped to aggressive intervention before addressing the simplest and most common cause",
+                  "@revSt": {
+                    "type": "Select",
+                    "optionId": "new"
+                  },
+                  "@keyRat": "Mild temp elevation (up to 100.4°F/38°C) in first 24 hours postpartum is commonly from dehydration during labor. First: hydrate. If temp persists >100.4°F after 24 hours = suspect infection (endometritis). Ice packs/CBC are premature interventions for a likely dehydration-related finding.",
+                  "@subj": {
+                    "type": "Select",
+                    "optionId": "ob"
+                  },
+                  "@errTy": {
+                    "type": "Select",
+                    "optionId": "priority"
+                  },
+                  "@corAn": "Fill water pitcher and encourage drinking (dehydration is common cause of mild temp elevation postpartum)",
+                  "@myAns": "Apply ice packs to head and neck"
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "33333333-bbbb-1111-aaaa-111111111106",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Fetal Tachycardia on Oxytocin — Assess Maternal Temp",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@res": {
+                    "type": "Select",
+                    "optionId": "incorrect"
+                  },
+                  "@quest": "Client on oxytocin, FHR went from 130 to 165 bpm with no decelerations, had diet soda. What to do?",
+                  "@whyWr": "Incorrectly attributed fetal tachycardia to oxytocin. Oxytocin affects contraction pattern, not directly FHR baseline.",
+                  "@revSt": {
+                    "type": "Select",
+                    "optionId": "new"
+                  },
+                  "@keyRat": "Fetal tachycardia (>160 for ≥10 min) without decelerations = think maternal fever/infection, drugs, or caffeine. Oxytocin does NOT cause fetal tachycardia. Discontinue oxytocin only for late decelerations (uteroplacental insufficiency). Assess maternal temp first.",
+                  "@subj": {
+                    "type": "Select",
+                    "optionId": "ob"
+                  },
+                  "@errTy": {
+                    "type": "Select",
+                    "optionId": "knowledge"
+                  },
+                  "@corAn": "Assess maternal temperature (fetal tachycardia with no decels suggests maternal infection/fever)",
+                  "@myAns": "Discontinue oxytocin administration"
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "33333333-bbbb-1111-aaaa-111111111107",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "FHR Strip — Late Decelerations → Stop Oxytocin",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@res": {
+                    "type": "Select",
+                    "optionId": "incorrect"
+                  },
+                  "@quest": "Reviewing diagnostic studies (FHR strip) from 1100. Which action should nurse take?",
+                  "@whyWr": "Did not correctly interpret FHR strip pattern as late decelerations requiring oxytocin discontinuation",
+                  "@revSt": {
+                    "type": "Select",
+                    "optionId": "new"
+                  },
+                  "@keyRat": "Late decelerations mirror contractions but start/end AFTER contraction. Indicate uteroplacental insufficiency. Immediate action: stop oxytocin, left lateral position, increase IV fluids, give O2. Cervical dilation assessment is not indicated for this FHR pattern.",
+                  "@subj": {
+                    "type": "Select",
+                    "optionId": "ob"
+                  },
+                  "@errTy": {
+                    "type": "Select",
+                    "optionId": "knowledge"
+                  },
+                  "@corAn": "Stop the oxytocin infusion (late decelerations = uteroplacental insufficiency)",
+                  "@myAns": "Assess cervical dilation"
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "33333333-bbbb-1111-aaaa-111111111108",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Breastfeeding Contraindications — Galactosemia & Active TB",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@res": {
+                    "type": "Select",
+                    "optionId": "partial"
+                  },
+                  "@quest": "Identify breastfeeding contraindications. Select all that apply.",
+                  "@whyWr": "Confused PKU with galactosemia. PKU babies CAN breastfeed with monitoring. Galactosemia = absolute contraindication.",
+                  "@revSt": {
+                    "type": "Select",
+                    "optionId": "new"
+                  },
+                  "@keyRat": "Contraindications: galactosemia (can't break down galactose in breast milk), untreated active TB (prevent newborn exposure), HIV, herpes on breast. PKU = safe because breastmilk has LOWER phenylalanine than formula.",
+                  "@subj": {
+                    "type": "Select",
+                    "optionId": "ob"
+                  },
+                  "@errTy": {
+                    "type": "Select",
+                    "optionId": "knowledge"
+                  },
+                  "@corAn": "Galactosemia (Choice 1) and untreated active tuberculosis (Choice 3)",
+                  "@myAns": "Selected galactosemia ✓ but also PKU ✗ (PKU is safe to breastfeed)"
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "33333333-bbbb-1111-aaaa-111111111109",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Classical vs Transverse C-Section Incision — VBAC Risk",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@res": {
+                    "type": "Select",
+                    "optionId": "incorrect"
+                  },
+                  "@quest": "Charge nurse receives report on laboring clients. Which is PRIORITY to follow up?",
+                  "@whyWr": "Focused on gestational age instead of incision type as the key risk factor",
+                  "@revSt": {
+                    "type": "Select",
+                    "optionId": "new"
+                  },
+                  "@keyRat": "Classical (vertical) incision = highest risk for uterine rupture during labor. Transverse = lower risk, VBAC candidate. Classical incision client in labor needs immediate assessment for signs of rupture. Previous c-section timing (2 years) is less critical than incision type.",
+                  "@subj": {
+                    "type": "Select",
+                    "optionId": "ob"
+                  },
+                  "@errTy": {
+                    "type": "Select",
+                    "optionId": "priority"
+                  },
+                  "@corAn": "Client with classical incision from previous cesarean (highest risk for uterine rupture)",
+                  "@myAns": "42 weeks pregnant, c-section 2 years ago"
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "33333333-bbbb-1111-aaaa-111111111110",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Ectopic Pregnancy + Methotrexate — Contraception until β-hCG Zero",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@res": {
+                    "type": "Select",
+                    "optionId": "correct"
+                  },
+                  "@quest": "Client with ectopic pregnancy receiving methotrexate. Correct understanding?",
+                  "@whyWr": "N/A — answered correctly",
+                  "@revSt": {
+                    "type": "Select",
+                    "optionId": "new"
+                  },
+                  "@keyRat": "Methotrexate = folic acid antagonist used to dissolve ectopic pregnancy tissue. Must monitor weekly β-hCG until undetectable. Teratogenic — avoid pregnancy until levels reach zero. Folic acid supplements are contraindicated during treatment.",
+                  "@subj": {
+                    "type": "Select",
+                    "optionId": "ob"
+                  },
+                  "@errTy": {
+                    "type": "Select",
+                    "optionId": "knowledge"
+                  },
+                  "@corAn": "\"My partner and I will use contraception until my β-hCG levels are undetectable\"",
+                  "@myAns": "Same as correct answer"
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "33333333-bbbb-1111-aaaa-111111111111",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Mastitis Risk Factors",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@res": {
+                    "type": "Select",
+                    "optionId": "partial"
+                  },
+                  "@quest": "Client with persistent mastitis. Which findings increase risk? Select all that apply.",
+                  "@whyWr": "Incorrectly linked diet to mastitis. Missed that reducing feeding frequency increases stasis and infection risk.",
+                  "@revSt": {
+                    "type": "Select",
+                    "optionId": "new"
+                  },
+                  "@keyRat": "Mastitis risk factors: nipple trauma/cracking (pain during feeding), incomplete breast emptying (decreasing feedings), tongue-tie in newborn (poor latch). Fast food diet is not a direct risk factor for mastitis. Decreasing feeds = milk stasis = infection risk.",
+                  "@subj": {
+                    "type": "Select",
+                    "optionId": "ob"
+                  },
+                  "@errTy": {
+                    "type": "Select",
+                    "optionId": "knowledge"
+                  },
+                  "@corAn": "Pain during breastfeeding (B), trying to decrease feedings (F). Also tongue-tied newborn (C).",
+                  "@myAns": "Selected B and E (fast food) — E is wrong, missed decreasing feedings as risk factor"
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "33333333-bbbb-1111-aaaa-111111111112",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Uterine Inversion — Quantify Blood Loss First",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@res": {
+                    "type": "Select",
+                    "optionId": "incorrect"
+                  },
+                  "@quest": "Client with uterine inversion. First action?",
+                  "@whyWr": "Fundal assessment is not helpful in inversion — the fundus is inverted. Hemorrhage assessment takes priority.",
+                  "@revSt": {
+                    "type": "Select",
+                    "optionId": "new"
+                  },
+                  "@keyRat": "Uterine inversion = uterus turns inside out after delivery. In inversion, fundus will NOT be palpable in the usual position. First priority: quantify blood loss (hemorrhage risk is immediate). Then prepare for manual repositioning. Do not attempt to palpate uterus aggressively.",
+                  "@subj": {
+                    "type": "Select",
+                    "optionId": "ob"
+                  },
+                  "@errTy": {
+                    "type": "Select",
+                    "optionId": "priority"
+                  },
+                  "@corAn": "Quantify vaginal blood loss",
+                  "@myAns": "Assess fundal height and tone"
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "33333333-bbbb-1111-aaaa-111111111113",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Amniocentesis — Rh(-) Client Needs RhoGAM",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@res": {
+                    "type": "Select",
+                    "optionId": "incorrect"
+                  },
+                  "@quest": "Preparing for amniocentesis, 15 weeks, blood type A(-). Which statement shows understanding?",
+                  "@whyWr": "Selected an unrelated post-procedure concern. Should have focused on Rh incompatibility management.",
+                  "@revSt": {
+                    "type": "Select",
+                    "optionId": "new"
+                  },
+                  "@keyRat": "Rh-negative mothers undergoing invasive procedures (amniocentesis, CVS) need RhoGAM to prevent Rh sensitization. Fluid leakage, abdominal pain, and bleeding should be reported. Leg swelling is not related to amniocentesis.",
+                  "@subj": {
+                    "type": "Select",
+                    "optionId": "ob"
+                  },
+                  "@errTy": {
+                    "type": "Select",
+                    "optionId": "knowledge"
+                  },
+                  "@corAn": "\"Fluid leakage from the vagina is expected\" is incorrect. Correct understanding includes that Rh immunoglobulin (RhoGAM) is needed because invasive procedure can cause fetal-maternal blood mixing.",
+                  "@myAns": "\"I will teach the client to monitor for increased leg swelling\""
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "33333333-bbbb-1111-aaaa-111111111114",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Epidural Effectiveness — Progression of Labor + Pain Relief + Vitals",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@res": {
+                    "type": "Select",
+                    "optionId": "incorrect"
+                  },
+                  "@quest": "Effective epidural anesthesia is demonstrated by which 3 indicators?",
+                  "@whyWr": "Confused monitoring parameters with effectiveness indicators",
+                  "@revSt": {
+                    "type": "Select",
+                    "optionId": "new"
+                  },
+                  "@keyRat": "Effective epidural = (1) Pain relief is primary goal, (2) Labor should still progress (dilation/effacement), (3) Stable vital signs (watch for hypotension/bradycardia from sympathetic blockade). FHR monitoring is important but not a measure of epidural effectiveness.",
+                  "@subj": {
+                    "type": "Select",
+                    "optionId": "ob"
+                  },
+                  "@errTy": {
+                    "type": "Select",
+                    "optionId": "knowledge"
+                  },
+                  "@corAn": "Progression of labor, pain relief, and vital signs stability",
+                  "@myAns": "Fetal heart rate, maternal comfort, no respiratory distress"
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "33333333-bbbb-1111-aaaa-111111111115",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Chlamydia Test Results — Priority Over FHR Pattern",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@res": {
+                    "type": "Select",
+                    "optionId": "incorrect"
+                  },
+                  "@quest": "Client refusing oxytocin, minimal FHR variability, chlamydia test pending. What to address first?",
+                  "@whyWr": "Focused on FHR monitoring over an actionable pending lab result that affects delivery management",
+                  "@revSt": {
+                    "type": "Select",
+                    "optionId": "new"
+                  },
+                  "@keyRat": "Chlamydia during vaginal delivery → neonatal conjunctivitis and pneumonia. Results are pending and delivery is approaching. Minimal FHR variability with no other signs may be related to fetal sleep or medications. The STI result has direct impact on delivery planning and neonatal prophylaxis.",
+                  "@subj": {
+                    "type": "Select",
+                    "optionId": "ob"
+                  },
+                  "@errTy": {
+                    "type": "Select",
+                    "optionId": "priority"
+                  },
+                  "@corAn": "Chlamydia test results (untreated STI during delivery = neonatal infection risk)",
+                  "@myAns": "Fetal heart rate pattern"
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "11111111-cccc-3333-aaaa-111111111101",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🩺 Med-Surg",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "44444444-cccc-1111-aaaa-111111111101",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Acute Coronary Syndrome — O2 First",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@res": {
+                    "type": "Select",
+                    "optionId": "incorrect"
+                  },
+                  "@quest": "Client with CAD history, viselike chest pressure at rest. Which intervention for immediate management?",
+                  "@whyWr": "Chose a diagnostic step over an immediate stabilizing intervention",
+                  "@revSt": {
+                    "type": "Select",
+                    "optionId": "new"
+                  },
+                  "@keyRat": "ACS management priority: stabilize first with O2, then diagnose. O2 ensures adequate myocardial oxygenation during acute ischemia. ECG and troponins are important but come AFTER ensuring oxygenation. Environment modifications are not acute interventions.",
+                  "@subj": {
+                    "type": "Select",
+                    "optionId": "med-surg"
+                  },
+                  "@errTy": {
+                    "type": "Select",
+                    "optionId": "priority"
+                  },
+                  "@corAn": "Apply O2 via nasal cannula, titrate to keep SpO2 above 93%",
+                  "@myAns": "Determine ST-elevations on ECG"
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "44444444-cccc-1111-aaaa-111111111102",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "NG Tube — Coffee Ground Drainage → Clamp + Notify HCP",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@res": {
+                    "type": "Select",
+                    "optionId": "incorrect"
+                  },
+                  "@quest": "NG tube insertion yields immediate coffee ground drainage. What action should nurse take?",
+                  "@whyWr": "Proceeded with standard procedure without recognizing abnormal finding requiring HCP notification",
+                  "@revSt": {
+                    "type": "Select",
+                    "optionId": "new"
+                  },
+                  "@keyRat": "Coffee ground drainage = old blood in stomach = possible GI bleeding. Do NOT connect to suction — could worsen bleeding. Clamp tube, notify HCP for further evaluation. Do not remove/reinsert. Connecting to continuous suction without assessment is inappropriate.",
+                  "@subj": {
+                    "type": "Select",
+                    "optionId": "med-surg"
+                  },
+                  "@errTy": {
+                    "type": "Select",
+                    "optionId": "priority"
+                  },
+                  "@corAn": "Clamp the NG tube and contact the healthcare provider",
+                  "@myAns": "Connect to suction as prescribed"
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "44444444-cccc-1111-aaaa-111111111103",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Ileal Conduit — Low Urine Output = Report",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@res": {
+                    "type": "Select",
+                    "optionId": "incorrect"
+                  },
+                  "@quest": "Post-op ureteroileostomy (ileal conduit). Which finding to report immediately?",
+                  "@whyWr": "Did not recognize borderline-low output as concerning in the immediate post-op period",
+                  "@revSt": {
+                    "type": "Select",
+                    "optionId": "new"
+                  },
+                  "@keyRat": "Normal ileal conduit output = 30-60 mL/hr. 40 mL is at the LOW end and may indicate obstruction, dehydration, or impaired renal function. Mucous strings = normal from ileal segment. Red/edematous stoma = expected post-op. Brown drainage = normal urine + intestinal mucus.",
+                  "@subj": {
+                    "type": "Select",
+                    "optionId": "med-surg"
+                  },
+                  "@errTy": {
+                    "type": "Select",
+                    "optionId": "knowledge"
+                  },
+                  "@corAn": "Stomal output of 40 mL in the last hour (normal = 30-60 mL/hr, 40mL is critically low suggesting obstruction/renal impairment)",
+                  "@myAns": "Mucous strings floating in drainage (normal — ileal segment produces mucus)"
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "44444444-cccc-1111-aaaa-111111111104",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Stroke Recovery — Interdisciplinary Team Referrals",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@res": {
+                    "type": "Select",
+                    "optionId": "partial"
+                  },
+                  "@quest": "Post-tPA stroke client with facial droop, garbled speech, left-sided weakness. Which team members for recovery?",
+                  "@whyWr": "Included non-essential disciplines and missed OT and Case Manager roles",
+                  "@revSt": {
+                    "type": "Select",
+                    "optionId": "new"
+                  },
+                  "@keyRat": "Stroke recovery team: Speech therapist (garbled speech/dysphagia), OT (fine motor/ADLs), PT (strength/mobility), Case Manager (discharge planning/rehab). Respiratory therapy not indicated without respiratory issues. Pharmacy technician does not provide direct clinical rehab services.",
+                  "@subj": {
+                    "type": "Select",
+                    "optionId": "med-surg"
+                  },
+                  "@errTy": {
+                    "type": "Select",
+                    "optionId": "knowledge"
+                  },
+                  "@corAn": "Case Manager, Occupational Therapist, Speech Therapist, Physical Therapist",
+                  "@myAns": "Selected Speech Therapist + Physical Therapist + Respiratory Therapist + Pharmacy Technician"
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "44444444-cccc-1111-aaaa-111111111105",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Ventilated Client — ABG Interpretation + Orders",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@res": {
+                    "type": "Select",
+                    "optionId": "partial"
+                  },
+                  "@quest": "Ventilated client with crackles, diminished breath sounds, ABG showing respiratory acidosis. Which 3 orders to expect?",
+                  "@whyWr": "Did not consider prone positioning for respiratory improvement. NS bolus would worsen fluid overload.",
+                  "@revSt": {
+                    "type": "Select",
+                    "optionId": "new"
+                  },
+                  "@keyRat": "Resp acidosis (high PaCO2, low pH) + crackles + diminished sounds = fluid in lungs/secretions. Suctioning clears secretions. Prone positioning improves V/Q matching. Repeat ABG monitors response. NS bolus would worsen fluid overload. Chest x-ray is reasonable but not the 3 best orders.",
+                  "@subj": {
+                    "type": "Select",
+                    "optionId": "med-surg"
+                  },
+                  "@errTy": {
+                    "type": "Select",
+                    "optionId": "knowledge"
+                  },
+                  "@corAn": "Repeat ABG in 1 hour, place in prone position, perform endotracheal suctioning",
+                  "@myAns": "Selected NS bolus, endotracheal suctioning, chest x-ray (missed prone positioning, included unnecessary bolus)"
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "44444444-cccc-1111-aaaa-111111111106",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Phantom Limb Pain — Reassurance is Therapeutic",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@res": {
+                    "type": "Select",
+                    "optionId": "incorrect"
+                  },
+                  "@quest": "Adolescent post left leg amputation for osteosarcoma reports phantom limb pain. Non-pharmacological intervention?",
+                  "@whyWr": "Chose a physical intervention instead of therapeutic communication/education as the non-pharmacological approach",
+                  "@revSt": {
+                    "type": "Select",
+                    "optionId": "new"
+                  },
+                  "@keyRat": "Phantom limb pain is a REAL neurological phenomenon, not imagined. Reassurance that it's normal helps reduce anxiety. Never tell patient pain isn't real. Mirror therapy and guided imagery may help. Moving the other limb doesn't override phantom sensations. Education and validation are key.",
+                  "@subj": {
+                    "type": "Select",
+                    "optionId": "med-surg"
+                  },
+                  "@errTy": {
+                    "type": "Select",
+                    "optionId": "knowledge"
+                  },
+                  "@corAn": "Reassure that this can be a normal post-surgical sensation",
+                  "@myAns": "Guide in moving non-affected limb to override sensation"
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "11111111-dddd-4444-aaaa-111111111101",
+            "text": {
+              "ops": [
+                {
+                  "insert": "👶 Pediatrics",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "55555555-dddd-1111-aaaa-111111111101",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Myelomeningocele — Prone Position FIRST",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@res": {
+                    "type": "Select",
+                    "optionId": "incorrect"
+                  },
+                  "@quest": "Newborn with myelomeningocele. First nursing action?",
+                  "@whyWr": "Chose an assessment over a protective intervention. Preventing sac damage is the immediate priority.",
+                  "@revSt": {
+                    "type": "Select",
+                    "optionId": "new"
+                  },
+                  "@keyRat": "Myelomeningocele = spinal cord and meninges protrude through vertebral defect. PRIORITY: prevent sac rupture → place PRONE, cover sac with sterile moist saline dressing. Head circumference monitors for hydrocephalus (important but not FIRST). Surgery usually within 24-48 hours.",
+                  "@subj": {
+                    "type": "Select",
+                    "optionId": "peds"
+                  },
+                  "@errTy": {
+                    "type": "Select",
+                    "optionId": "priority"
+                  },
+                  "@corAn": "Place client in prone position (protect the sac from rupture/infection)",
+                  "@myAns": "Measure head circumference"
+                },
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "55555555-dddd-1111-aaaa-111111111102",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Chemical Exposure in Toddler — Assess Sensorium First",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@res": {
+                    "type": "Select",
+                    "optionId": "incorrect"
+                  },
+                  "@quest": "Toddler with chemical exposure (cleaning products), airway patent. First action?",
+                  "@whyWr": "Jumped to information gathering before completing patient assessment",
+                  "@revSt": {
+                    "type": "Select",
+                    "optionId": "new"
+                  },
+                  "@keyRat": "After ensuring ABCs (airway patent ✓), next priority = assess neurological status (sensorium) to determine toxicity severity. This guides ALL subsequent interventions. Identifying the chemical, calling poison control, and gastric lavage are important but secondary to patient assessment. Assess before you act.",
+                  "@subj": {
+                    "type": "Select",
+                    "optionId": "peds"
+                  },
+                  "@errTy": {
+                    "type": "Select",
+                    "optionId": "priority"
+                  },
+                  "@corAn": "Assess child for altered sensorium (determine toxicity severity)",
+                  "@myAns": "Determine type of chemical exposure"
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "11111111-eeee-5555-aaaa-111111111101",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🧠 Mental Health",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "66666666-eeee-1111-aaaa-111111111101",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "OCD — Compulsion vs Obsession Differentiation",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@res": {
+                    "type": "Select",
+                    "optionId": "incorrect"
+                  },
+                  "@quest": "Client with 2-hour daily handwashing ritual due to contamination fear. The handwashing is an example of?",
+                  "@whyWr": "Confused the thought (obsession) with the behavioral response (compulsion). Remember: thought = obsession, action = compulsion.",
+                  "@revSt": {
+                    "type": "Select",
+                    "optionId": "new"
+                  },
+                  "@keyRat": "OCD: Obsession = intrusive unwanted THOUGHT (fear of contamination). Compulsion = repetitive BEHAVIOR performed to reduce anxiety from obsession (handwashing). The fear = obsession. The washing = compulsion. Phobia = avoidance of specific object. Addiction = substance-related compulsive use.",
+                  "@subj": {
+                    "type": "Select",
+                    "optionId": "mental"
+                  },
+                  "@errTy": {
+                    "type": "Select",
+                    "optionId": "knowledge"
+                  },
+                  "@corAn": "Compulsion (repetitive behavior performed in response to an obsession)",
+                  "@myAns": "Obsession"
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "11111111-ffff-6666-aaaa-111111111101",
+            "text": {
+              "ops": [
+                {
+                  "insert": "📖 Fundamentals / Community",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "77777777-ffff-1111-aaaa-111111111101",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Lyme Disease Prevention — DEET Insect Repellent",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "checkbox",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "attributes": {
+                  "@res": {
+                    "type": "Select",
+                    "optionId": "incorrect"
+                  },
+                  "@quest": "Teaching about Lyme disease prevention. Which information to include?",
+                  "@whyWr": "Confused the rash description — Lyme rash is bull's-eye, not pinpoint",
+                  "@revSt": {
+                    "type": "Select",
+                    "optionId": "new"
+                  },
+                  "@keyRat": "Lyme disease = Borrelia burgdorferi via deer tick. Prevention: DEET repellent, long sleeves tucked in, full-body inspections after outdoors. Rash = erythema migrans (bull's-eye), NOT diffuse pinpoint. Light-colored clothing (not dark) makes ticks visible. If bitten, remove tick — don't leave in place.",
+                  "@subj": {
+                    "type": "Select",
+                    "optionId": "community"
+                  },
+                  "@errTy": {
+                    "type": "Select",
+                    "optionId": "knowledge"
+                  },
+                  "@corAn": "\"Use insect repellent containing DEET while outside\"",
+                  "@myAns": "\"If bitten by tick, monitor for diffuse pinpoint red rash\" (rash is bull's-eye, not pinpoint)"
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "fields": {
+      "@res": {
+        "displayName": "Result",
+        "type": "Select",
+        "options": {
+          "incorrect": {
+            "id": "incorrect",
+            "name": "❌ Incorrect",
+            "rank": "0",
+            "color": "#ef4444"
+          },
+          "partial": {
+            "id": "partial",
+            "name": "⚠️ Partial Credit",
+            "rank": "1",
+            "color": "#f59e0b"
+          },
+          "correct": {
+            "id": "correct",
+            "name": "✅ Correct",
+            "rank": "2",
+            "color": "#22c55e"
+          }
+        }
+      },
+      "@quest": {
+        "displayName": "Question Stem",
+        "type": "string"
+      },
+      "@whyWr": {
+        "displayName": "Why Wrong / Lesson",
+        "type": "string"
+      },
+      "@revSt": {
+        "displayName": "Review Status",
+        "type": "Select",
+        "options": {
+          "new": {
+            "id": "new",
+            "name": "🆕 New",
+            "rank": "0",
+            "color": "#3b82f6"
+          },
+          "reviewing": {
+            "id": "reviewing",
+            "name": "🔄 Reviewing",
+            "rank": "1",
+            "color": "#eab308"
+          },
+          "mastered": {
+            "id": "mastered",
+            "name": "✅ Mastered",
+            "rank": "2",
+            "color": "#22c55e"
+          }
+        }
+      },
+      "@keyRat": {
+        "displayName": "Key Rationale",
+        "type": "string"
+      },
+      "@subj": {
+        "displayName": "Subject",
+        "type": "Select",
+        "options": {
+          "med-surg": {
+            "id": "med-surg",
+            "name": "Med-Surg",
+            "rank": "0",
+            "color": "#f97316"
+          },
+          "pharm": {
+            "id": "pharm",
+            "name": "Pharmacology",
+            "rank": "1",
+            "color": "#22c55e"
+          },
+          "ob": {
+            "id": "ob",
+            "name": "OB / Maternal",
+            "rank": "2",
+            "color": "#ec4899"
+          },
+          "peds": {
+            "id": "peds",
+            "name": "Pediatrics",
+            "rank": "3",
+            "color": "#3b82f6"
+          },
+          "moc": {
+            "id": "moc",
+            "name": "Management of Care",
+            "rank": "4",
+            "color": "#7c3aed"
+          },
+          "mental": {
+            "id": "mental",
+            "name": "Mental Health",
+            "rank": "5",
+            "color": "#a855f7"
+          },
+          "funds": {
+            "id": "funds",
+            "name": "Fundamentals",
+            "rank": "6",
+            "color": "#a16207"
+          }
+        }
+      },
+      "@errTy": {
+        "displayName": "Error Type",
+        "type": "Select",
+        "options": {
+          "knowledge": {
+            "id": "knowledge",
+            "name": "Knowledge Gap",
+            "rank": "0",
+            "color": "#ef4444"
+          },
+          "priority": {
+            "id": "priority",
+            "name": "Priority Failure",
+            "rank": "1",
+            "color": "#f59e0b"
+          },
+          "misread": {
+            "id": "misread",
+            "name": "Misread Question",
+            "rank": "2",
+            "color": "#8b5cf6"
+          }
+        }
+      },
+      "@corAn": {
+        "displayName": "Correct Answer",
+        "type": "string"
+      },
+      "@myAns": {
+        "displayName": "My Answer",
+        "type": "string"
+      }
+    },
+    "views": {
+      "list": {
+        "id": "list",
+        "type": "list",
+        "rank": "A",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@subj": {
+            "id": "/attributes/@subj",
+            "fieldPath": "/attributes/@subj",
+            "rank": "z"
+          },
+          "/attributes/@revSt": {
+            "id": "/attributes/@revSt",
+            "fieldPath": "/attributes/@revSt",
+            "rank": "zV"
+          },
+          "/attributes/@res": {
+            "id": "/attributes/@res",
+            "fieldPath": "/attributes/@res",
+            "rank": "zk"
+          },
+          "/attributes/@quest": {
+            "id": "/attributes/@quest",
+            "fieldPath": "/attributes/@quest",
+            "rank": "zs"
+          },
+          "/attributes/@corAn": {
+            "id": "/attributes/@corAn",
+            "fieldPath": "/attributes/@corAn",
+            "rank": "zw"
+          },
+          "/attributes/@myAns": {
+            "id": "/attributes/@myAns",
+            "fieldPath": "/attributes/@myAns",
+            "rank": "zy"
+          },
+          "/attributes/@keyRat": {
+            "id": "/attributes/@keyRat",
+            "fieldPath": "/attributes/@keyRat",
+            "rank": "zz"
+          },
+          "/attributes/@whyWr": {
+            "id": "/attributes/@whyWr",
+            "fieldPath": "/attributes/@whyWr",
+            "rank": "zzV"
+          },
+          "/attributes/@errTy": {
+            "id": "/attributes/@errTy",
+            "fieldPath": "/attributes/@errTy",
+            "rank": "zzk"
+          }
+        }
+      },
+      "board": {
+        "id": "board",
+        "type": "board",
+        "rank": "B",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@subj": {
+            "id": "/attributes/@subj",
+            "fieldPath": "/attributes/@subj",
+            "rank": "z"
+          },
+          "/attributes/@revSt": {
+            "id": "/attributes/@revSt",
+            "fieldPath": "/attributes/@revSt",
+            "rank": "zV"
+          },
+          "/attributes/@res": {
+            "id": "/attributes/@res",
+            "fieldPath": "/attributes/@res",
+            "rank": "zk"
+          },
+          "/attributes/@quest": {
+            "id": "/attributes/@quest",
+            "fieldPath": "/attributes/@quest",
+            "rank": "zs"
+          },
+          "/attributes/@corAn": {
+            "id": "/attributes/@corAn",
+            "fieldPath": "/attributes/@corAn",
+            "rank": "zw"
+          },
+          "/attributes/@myAns": {
+            "id": "/attributes/@myAns",
+            "fieldPath": "/attributes/@myAns",
+            "rank": "zy"
+          },
+          "/attributes/@keyRat": {
+            "id": "/attributes/@keyRat",
+            "fieldPath": "/attributes/@keyRat",
+            "rank": "zz"
+          },
+          "/attributes/@whyWr": {
+            "id": "/attributes/@whyWr",
+            "fieldPath": "/attributes/@whyWr",
+            "rank": "zzV"
+          },
+          "/attributes/@errTy": {
+            "id": "/attributes/@errTy",
+            "fieldPath": "/attributes/@errTy",
+            "rank": "zzk"
+          }
+        }
+      },
+      "mindmap": {
+        "id": "mindmap",
+        "type": "mindmap",
+        "rank": "D",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@subj": {
+            "id": "/attributes/@subj",
+            "fieldPath": "/attributes/@subj",
+            "rank": "z"
+          },
+          "/attributes/@revSt": {
+            "id": "/attributes/@revSt",
+            "fieldPath": "/attributes/@revSt",
+            "rank": "zV"
+          },
+          "/attributes/@res": {
+            "id": "/attributes/@res",
+            "fieldPath": "/attributes/@res",
+            "rank": "zk"
+          },
+          "/attributes/@quest": {
+            "id": "/attributes/@quest",
+            "fieldPath": "/attributes/@quest",
+            "rank": "zs"
+          },
+          "/attributes/@corAn": {
+            "id": "/attributes/@corAn",
+            "fieldPath": "/attributes/@corAn",
+            "rank": "zw"
+          },
+          "/attributes/@myAns": {
+            "id": "/attributes/@myAns",
+            "fieldPath": "/attributes/@myAns",
+            "rank": "zy"
+          },
+          "/attributes/@keyRat": {
+            "id": "/attributes/@keyRat",
+            "fieldPath": "/attributes/@keyRat",
+            "rank": "zz"
+          },
+          "/attributes/@whyWr": {
+            "id": "/attributes/@whyWr",
+            "fieldPath": "/attributes/@whyWr",
+            "rank": "zzV"
+          },
+          "/attributes/@errTy": {
+            "id": "/attributes/@errTy",
+            "fieldPath": "/attributes/@errTy",
+            "rank": "zzk"
+          }
+        }
+      },
+      "orgchart": {
+        "id": "orgchart",
+        "type": "orgchart",
+        "rank": "E",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@subj": {
+            "id": "/attributes/@subj",
+            "fieldPath": "/attributes/@subj",
+            "rank": "z"
+          },
+          "/attributes/@revSt": {
+            "id": "/attributes/@revSt",
+            "fieldPath": "/attributes/@revSt",
+            "rank": "zV"
+          },
+          "/attributes/@res": {
+            "id": "/attributes/@res",
+            "fieldPath": "/attributes/@res",
+            "rank": "zk"
+          },
+          "/attributes/@quest": {
+            "id": "/attributes/@quest",
+            "fieldPath": "/attributes/@quest",
+            "rank": "zs"
+          },
+          "/attributes/@corAn": {
+            "id": "/attributes/@corAn",
+            "fieldPath": "/attributes/@corAn",
+            "rank": "zw"
+          },
+          "/attributes/@myAns": {
+            "id": "/attributes/@myAns",
+            "fieldPath": "/attributes/@myAns",
+            "rank": "zy"
+          },
+          "/attributes/@keyRat": {
+            "id": "/attributes/@keyRat",
+            "fieldPath": "/attributes/@keyRat",
+            "rank": "zz"
+          },
+          "/attributes/@whyWr": {
+            "id": "/attributes/@whyWr",
+            "fieldPath": "/attributes/@whyWr",
+            "rank": "zzV"
+          },
+          "/attributes/@errTy": {
+            "id": "/attributes/@errTy",
+            "fieldPath": "/attributes/@errTy",
+            "rank": "zzk"
+          }
+        }
+      },
+      "gantt": {
+        "id": "gantt",
+        "type": "gantt",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F",
+            "hidden": true
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N",
+            "hidden": true
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "/attributes/@subj": {
+            "id": "/attributes/@subj",
+            "fieldPath": "/attributes/@subj",
+            "rank": "z",
+            "hidden": false
+          },
+          "/attributes/@revSt": {
+            "id": "/attributes/@revSt",
+            "fieldPath": "/attributes/@revSt",
+            "rank": "zV",
+            "hidden": false
+          },
+          "/attributes/@res": {
+            "id": "/attributes/@res",
+            "fieldPath": "/attributes/@res",
+            "rank": "zk",
+            "hidden": false
+          },
+          "/attributes/@quest": {
+            "id": "/attributes/@quest",
+            "fieldPath": "/attributes/@quest",
+            "rank": "zs",
+            "hidden": false
+          },
+          "/attributes/@corAn": {
+            "id": "/attributes/@corAn",
+            "fieldPath": "/attributes/@corAn",
+            "rank": "zw",
+            "hidden": false
+          },
+          "/attributes/@myAns": {
+            "id": "/attributes/@myAns",
+            "fieldPath": "/attributes/@myAns",
+            "rank": "zy",
+            "hidden": false
+          },
+          "/attributes/@keyRat": {
+            "id": "/attributes/@keyRat",
+            "fieldPath": "/attributes/@keyRat",
+            "rank": "zz",
+            "hidden": false
+          },
+          "/attributes/@whyWr": {
+            "id": "/attributes/@whyWr",
+            "fieldPath": "/attributes/@whyWr",
+            "rank": "zzV",
+            "hidden": false
+          },
+          "/attributes/@errTy": {
+            "id": "/attributes/@errTy",
+            "fieldPath": "/attributes/@errTy",
+            "rank": "zzk",
+            "hidden": false
+          }
+        }
+      },
+      "table": {
+        "id": "table",
+        "type": "table",
+        "rank": "V",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F",
+            "hidden": true
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N",
+            "hidden": true
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "/attributes/@subj": {
+            "id": "/attributes/@subj",
+            "fieldPath": "/attributes/@subj",
+            "rank": "z",
+            "hidden": false
+          },
+          "/attributes/@revSt": {
+            "id": "/attributes/@revSt",
+            "fieldPath": "/attributes/@revSt",
+            "rank": "zV",
+            "hidden": false
+          },
+          "/attributes/@res": {
+            "id": "/attributes/@res",
+            "fieldPath": "/attributes/@res",
+            "rank": "zk",
+            "hidden": false
+          },
+          "/attributes/@quest": {
+            "id": "/attributes/@quest",
+            "fieldPath": "/attributes/@quest",
+            "rank": "zs",
+            "hidden": false
+          },
+          "/attributes/@corAn": {
+            "id": "/attributes/@corAn",
+            "fieldPath": "/attributes/@corAn",
+            "rank": "zw",
+            "hidden": false
+          },
+          "/attributes/@myAns": {
+            "id": "/attributes/@myAns",
+            "fieldPath": "/attributes/@myAns",
+            "rank": "zy",
+            "hidden": false
+          },
+          "/attributes/@keyRat": {
+            "id": "/attributes/@keyRat",
+            "fieldPath": "/attributes/@keyRat",
+            "rank": "zz",
+            "hidden": false
+          },
+          "/attributes/@whyWr": {
+            "id": "/attributes/@whyWr",
+            "fieldPath": "/attributes/@whyWr",
+            "rank": "zzV",
+            "hidden": false
+          },
+          "/attributes/@errTy": {
+            "id": "/attributes/@errTy",
+            "fieldPath": "/attributes/@errTy",
+            "rank": "zzk",
+            "hidden": false
+          }
+        }
+      }
+    }
+  },
+  "preferences": {
+    "defaultView": "table",
+    "avatar": {
+      "type": "emoji",
+      "value": "⚙️"
+    }
+  }
+}
